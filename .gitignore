@@ -1,0 +1,22 @@
+# Created by .ignore support plugin (hsz.mobi)
+/node_modules/
+/.idea/
+.history
+/dist/
+/build/
+/client/
+/admin/
+/coverage/
+npm-debug.log
+/.vscode/
+.cache
+.eslintcache
+/.scannerwork/
+
+/iframe-example/node_modules/
+
+# ignore macOS file
+.DS_Store
+
+Dockerfile
+docker
